@@ -1,79 +1,0 @@
-10
-
-dir
-48
-https://codegenie.googlecode.com/svn/trunk/codegenie-vocab/.metadata/.plugins
-https://codegenie.googlecode.com/svn
-
-
-
-2012-06-18T23:27:57.153290Z
-18
-otaviolemos
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-63f4ccbd-af5c-9c6b-4df7-60440578aab9
-
-codegenie
-dir
-
-org.eclipse.core.resources
-dir
-
-org.eclipse.core.runtime
-dir
-
-org.eclipse.debug.core
-dir
-
-org.eclipse.debug.ui
-dir
-
-org.eclipse.jdt.core
-dir
-
-org.eclipse.jdt.junit
-dir
-
-org.eclipse.jdt.launching
-dir
-
-org.eclipse.jdt.ui
-dir
-
-org.eclipse.ltk.core.refactoring
-dir
-
-org.eclipse.ltk.ui.refactoring
-dir
-
-org.eclipse.pde.core
-dir
-
-org.eclipse.pde.runtime
-dir
-
-org.eclipse.search
-dir
-
-org.eclipse.ui.ide
-dir
-
-org.eclipse.ui.intro
-dir
-
-org.eclipse.ui.workbench
-dir
-
